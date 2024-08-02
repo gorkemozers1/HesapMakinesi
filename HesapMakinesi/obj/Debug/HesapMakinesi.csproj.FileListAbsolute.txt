@@ -1,0 +1,4 @@
+C:\Users\Kübra Nur\Desktop\AllProject\Yeni klasör\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\Kübra Nur\Desktop\AllProject\Yeni klasör\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+C:\Users\Kübra Nur\Desktop\AllProject\Yeni klasör\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.cache
+C:\Users\Kübra Nur\Desktop\AllProject\Yeni klasör\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
